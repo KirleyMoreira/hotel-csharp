@@ -1,0 +1,15 @@
+C:\Users\kirle\csharp\HotelCharp\obj\Debug\net6.0\HotelCharp.csproj.AssemblyReference.cache
+C:\Users\kirle\csharp\HotelCharp\obj\Debug\net6.0\HotelCharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirle\csharp\HotelCharp\obj\Debug\net6.0\HotelCharp.AssemblyInfoInputs.cache
+C:\Users\kirle\csharp\HotelCharp\obj\Debug\net6.0\HotelCharp.AssemblyInfo.cs
+C:\Users\kirle\csharp\HotelCharp\obj\Debug\net6.0\HotelCharp.csproj.CoreCompileInputs.cache
+c:\Users\kirle\csharp\HotelCharp\bin\Debug\net6.0\HotelCharp.exe
+c:\Users\kirle\csharp\HotelCharp\bin\Debug\net6.0\HotelCharp.deps.json
+c:\Users\kirle\csharp\HotelCharp\bin\Debug\net6.0\HotelCharp.runtimeconfig.json
+c:\Users\kirle\csharp\HotelCharp\bin\Debug\net6.0\HotelCharp.dll
+c:\Users\kirle\csharp\HotelCharp\bin\Debug\net6.0\HotelCharp.pdb
+c:\Users\kirle\csharp\HotelCharp\obj\Debug\net6.0\HotelCharp.dll
+c:\Users\kirle\csharp\HotelCharp\obj\Debug\net6.0\refint\HotelCharp.dll
+c:\Users\kirle\csharp\HotelCharp\obj\Debug\net6.0\HotelCharp.pdb
+c:\Users\kirle\csharp\HotelCharp\obj\Debug\net6.0\HotelCharp.genruntimeconfig.cache
+c:\Users\kirle\csharp\HotelCharp\obj\Debug\net6.0\ref\HotelCharp.dll
